@@ -1,0 +1,9 @@
+
+    <resources>
+        <string name="app_name">Localization coba</string>
+        <string name="nama_kamu">Your Name</string>
+        <string name="email_kamu">Your Email</string>
+        <string name="password_kamu">Your Password</string>
+        <string name="ganti_bahasa">Change Lenguage</string>
+        <string name="login">Login</string>
+    </resources>
